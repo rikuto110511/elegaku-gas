@@ -19,6 +19,6 @@
   シートごとにファイルを分けている
   ```
 
-## FlexMessage.js
+## FlexMessage.js、QuckReply.js
 
 - LINE でイケてるメッセージを返却するための JSON を作成している
